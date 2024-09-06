@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class ConstructorDemo {
 
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -40,4 +39,3 @@ public class ConstructorDemo {
         sc.close();
     }
 }
-
